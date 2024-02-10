@@ -1,0 +1,6 @@
+[submodule "kafka_producer"]
+	path = kafka_producer
+	url = https://github.com/5IF-Cloud/kafka-streaming.git
+[submodule "streaming_consumer"]
+	path = streaming_consumer
+	url = https://github.com/5IF-Cloud/debs-2024.git
